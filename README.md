@@ -1,5 +1,5 @@
-# project name
-stuff about the project
+# school
+This is where I store everything I have done in school, since MYP year 2 (UK Year 8, US grade 7). It's not meant for anyone but myself, as a way of digitally backing up my work, but if you want to use it, go ahead! :)
 ## how to contribute
 always use PRs and use the following guidelines
 - `patch:` for small fixes
